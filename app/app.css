@@ -1,6 +1,11 @@
 body{
-    padding-top: 20px;
+    padding: 20px;
 }
+h1{
+    border-bottom: 1px solid gray;
+}
+
+/* View: 手机列表 */
 .phones{
     list-style: none;
 }
@@ -15,4 +20,46 @@ body{
     width: 100px;
     margin:-0.5em 1em 1.5em 0;
     padding-bottom: 1em;
+}
+
+/* View: 手机详情 */
+.phone{
+    width: 400px;
+    height: 400px;
+    background-color: #fff;
+    border: 1px solid #000;
+    float: left;
+    margin-bottom: 2em;
+    margin-right: 3em;
+    padding: 2em;
+}
+.phone-thumbs{
+    list-style: none;
+    margin: 0;
+}
+.phone-thumbs img{
+    width: 100px;
+    height: 100px;
+    padding: 1em;
+}
+.phone-thumbs li{
+    background-color: #fff;
+    border: 1px solid #000;
+    display: inline-block;
+    margin: 1em;
+}
+.specs{
+    clear: both;
+    list-style:none;
+    margin: 0;
+    padding: 0;
+}
+.specs li{
+    display: inline-block;
+    width: 200px;
+    vertical-align: top;
+}
+.specs li span{
+    font-size: 1.2em;
+    font-weight: bold;
 }
