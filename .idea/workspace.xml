@@ -2,8 +2,88 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6053b64-3d13-45d1-9f49-6fb272c0baef" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/dell-streak-7.0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/dell-streak-7.1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/dell-streak-7.2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/dell-streak-7.3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/dell-streak-7.4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/dell-venue.0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/dell-venue.1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/dell-venue.2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/dell-venue.3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/dell-venue.4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/dell-venue.5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/droid-2-global-by-motorola.0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/droid-2-global-by-motorola.1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/droid-2-global-by-motorola.2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/droid-pro-by-motorola.0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/droid-pro-by-motorola.1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/lg-axis.0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/lg-axis.1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/lg-axis.2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/motorola-atrix-4g.0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/motorola-atrix-4g.1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/motorola-atrix-4g.2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/motorola-atrix-4g.3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/motorola-bravo-with-motoblur.0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/motorola-bravo-with-motoblur.1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/motorola-bravo-with-motoblur.2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/motorola-charm-with-motoblur.0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/motorola-charm-with-motoblur.1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/motorola-charm-with-motoblur.2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/motorola-defy-with-motoblur.0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/motorola-defy-with-motoblur.1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/motorola-defy-with-motoblur.2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/motorola-xoom-with-wi-fi.0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/motorola-xoom-with-wi-fi.1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/motorola-xoom-with-wi-fi.2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/motorola-xoom-with-wi-fi.3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/motorola-xoom-with-wi-fi.4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/motorola-xoom-with-wi-fi.5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/motorola-xoom.0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/motorola-xoom.1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/motorola-xoom.2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/nexus-s.0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/nexus-s.1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/nexus-s.2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/nexus-s.3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/samsung-galaxy-tab.0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/samsung-galaxy-tab.1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/samsung-galaxy-tab.2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/samsung-galaxy-tab.3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/samsung-galaxy-tab.4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/samsung-galaxy-tab.5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/samsung-galaxy-tab.6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/samsung-gem.0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/samsung-gem.1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/samsung-gem.2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/samsung-mesmerize-a-galaxy-s-phone.0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/samsung-mesmerize-a-galaxy-s-phone.1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/samsung-mesmerize-a-galaxy-s-phone.2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/samsung-mesmerize-a-galaxy-s-phone.3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/samsung-showcase-a-galaxy-s-phone.0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/samsung-showcase-a-galaxy-s-phone.1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/samsung-showcase-a-galaxy-s-phone.2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/samsung-transform.0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/samsung-transform.1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/samsung-transform.2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/samsung-transform.3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/samsung-transform.4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/sanyo-zio.0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/sanyo-zio.1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/sanyo-zio.2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/t-mobile-g2.0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/t-mobile-g2.1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/t-mobile-g2.2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/t-mobile-mytouch-4g.0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/t-mobile-mytouch-4g.1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/t-mobile-mytouch-4g.2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/t-mobile-mytouch-4g.3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/t-mobile-mytouch-4g.4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/t-mobile-mytouch-4g.5.jpg" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/phone-list/phone-list.component.js" afterPath="$PROJECT_DIR$/app/phone-list/phone-list.component.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.css" afterPath="$PROJECT_DIR$/app/app.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/phone-list/phone-list.template.html" afterPath="$PROJECT_DIR$/app/phone-list/phone-list.template.html" />
     </list>
     <ignored path="phonecat.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,8 +107,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-11.636364">
-              <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+            <state vertical-scroll-proportion="-10.909091">
+              <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -37,8 +117,18 @@
       <file leaf-file-name="phone-list.template.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/phone-list/phone-list.template.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.181818">
-              <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+            <state vertical-scroll-proportion="-14.636364">
+              <caret line="23" column="70" selection-start-line="23" selection-start-column="70" selection-end-line="23" selection-end-column="70" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/app.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.60444444">
+              <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -54,10 +144,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="phone-list.component.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="phone-list.component.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/phone-list/phone-list.component.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.47457626">
+            <state vertical-scroll-proportion="0.0">
               <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
               <folding />
             </state>
@@ -103,16 +193,16 @@
       <list>
         <option value="$PROJECT_DIR$/../phonecat/app/app.js" />
         <option value="$PROJECT_DIR$/../phonecat/app/index.html" />
-        <option value="$PROJECT_DIR$/app/app.css" />
         <option value="$PROJECT_DIR$/app/app.spec.js" />
         <option value="$PROJECT_DIR$/app/app.js" />
         <option value="$PROJECT_DIR$/app/phone-list.component.js" />
         <option value="$PROJECT_DIR$/app/app.module.js" />
         <option value="$PROJECT_DIR$/app/phone-list/phone-list.module.js" />
-        <option value="$PROJECT_DIR$/app/index.html" />
-        <option value="$PROJECT_DIR$/app/phone-list/phone-list.template.html" />
         <option value="$PROJECT_DIR$/app/phones/phones.json" />
         <option value="$PROJECT_DIR$/app/phone-list/phone-list.component.js" />
+        <option value="$PROJECT_DIR$/app/index.html" />
+        <option value="$PROJECT_DIR$/app/phone-list/phone-list.template.html" />
+        <option value="$PROJECT_DIR$/app/app.css" />
       </list>
     </option>
   </component>
@@ -359,14 +449,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/app.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.035555556">
-          <caret line="1" column="22" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/app.module.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -383,22 +465,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.636364">
-          <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/phone-list/phone-list.template.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.181818">
-          <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/phone-list/phone-list.module.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -409,8 +475,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/phone-list/phone-list.component.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.47457626">
+        <state vertical-scroll-proportion="0.0">
           <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.909091">
+          <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/phone-list/phone-list.template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-14.636364">
+          <caret line="23" column="70" selection-start-line="23" selection-start-column="70" selection-end-line="23" selection-end-column="70" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.60444444">
+          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
           <folding />
         </state>
       </provider>
