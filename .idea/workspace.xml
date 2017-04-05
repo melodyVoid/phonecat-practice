@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b6053b64-3d13-45d1-9f49-6fb272c0baef" name="Default" comment="">
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/phone-list.component.js" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/app/app.spec.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.js" afterPath="$PROJECT_DIR$/app/app.js" />
