@@ -6,12 +6,20 @@
     <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.min.css">
     <link rel="stylesheet" href="app.css">
     <script src="bower_components/angular/angular.min.js"></script>
+    <script src="bower_components/angular-route/angular-route.min.js"></script>
     <script src="app.module.js"></script>
+    <script src="app.config.js"></script>
     <script src="phone-list/phone-list.module.js"></script>
     <script src="phone-list/phone-list.component.js"></script>
+    <!-- 这里踩到了坑,注意module和component的先后顺序 -->
+    <script src="phone-detail/phone-detail.module.js"></script>
+    <script src="phone-detail/phone-detail.component.js"></script>
+
 </head>
 <!-- 遇到坑,记得删除ng-controller="PhoneListController" -->
 <body>
-<phone-list></phone-list>
+
+<div ng-view></div>
+
 </body>
 </html>
