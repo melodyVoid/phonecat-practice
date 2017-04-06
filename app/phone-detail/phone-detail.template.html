@@ -1,5 +1,14 @@
-<img ng-src="{{$ctrl.mainImageUrl}}" class="phone">
-
+<!--<div class="phone-images">
+    <img ng-src="{{$ctrl.mainImageUrl}}" class="phone"
+    ng-class="{selected: img === $ctrl.mainImageUrl}"
+    ng-repeat="img in $ctrl.phone.images">
+</div>-->
+<!--ng-src="{{$ctrl.mainImageUrl}}这里一开始没改过来,所以图片会闪 -->
+<div class="phone-images">
+    <img ng-src="{{img}}" class="phone"
+         ng-class="{selected: img === $ctrl.mainImageUrl}"
+         ng-repeat="img in $ctrl.phone.images" />
+</div>
 <h1>{{$ctrl.phone.name}}</h1>
 
 <p>{{$ctrl.phone.description}}</p>

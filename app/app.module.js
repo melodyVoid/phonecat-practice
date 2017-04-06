@@ -1,2 +1,2 @@
-var phonecatApp = angular.module("phonecatApp", ["ngRoute","phoneDetail","phoneList","core"]);
+var phonecatApp = angular.module("phonecatApp", ["ngAnimate","ngRoute","phoneDetail","phoneList","core"]);
 

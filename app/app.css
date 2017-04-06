@@ -27,11 +27,23 @@ h1{
     width: 400px;
     height: 400px;
     background-color: #fff;
-    border: 1px solid #000;
+    /*border: 1px solid #000;*/
     float: left;
     margin-bottom: 2em;
     margin-right: 3em;
     padding: 2em;
+    display: none;
+}
+.phone:first-child{
+    display: block;
+}
+.phone-images{
+    background-color: #fff;
+    float: left;
+    width: 450px;
+    height: 450px;
+    overflow: hidden;
+    position: relative;
 }
 .phone-thumbs{
     list-style: none;
