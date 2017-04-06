@@ -1,2 +1,2 @@
 //定义core模块
-angular.module("core",[]);
+angular.module("core",["core.phone"]);
